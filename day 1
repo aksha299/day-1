@@ -12,3 +12,15 @@ Hello World
 
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+#include <stdio.h>
+
+int main()
+{
+    printf("My name is Akshata Divaspati Hegde");
+    return 0;
+}
+
+
+
+My name is Akshata Divaspati Hegde 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
